@@ -1,12 +1,68 @@
-How to run project
+README FILE
 
-Method 1:
+VAMIX - version 2.0 
+====================
+
+This is a video audio player and mixer. It was made by me in my second year of Software Engineering (2014).
+
+Main Author : Anmol Desai  
+
+Contact emails : ades597@aucklanduni.ac.nz
+
+
+This file is to help you navigate around this software. All images used in the making of this software come from iconfinder.com. Those images have been used for educational purposes only and no other purpose. Any other source material used has also been used for educational purposes only and I give full credit to those sources. 
+
+
+GENERAL USAGE INFORMATION:
+
+-- Beware of using very large files. They will work, but due to the large length it may take a while for your process to complete. Please be patient.
+
+
+INSTALLATION:
+
+- VLC (version 2.1 or higher) must be installed.
+
+- BASH shell has to be installed.
+
+- avconv must be installed as well
+
+
+DESCRIPTION:
+
+This software will allow the user to manipulate and edit audio and video files. 
+
+Features given are:
+
+ - Download open source video and audio files
+ - Play audio and video files
+ - See previous files played
+ - Skip forward, backward, play, pause, fast forward, rewind, stop, mute/unmute a video or audio file
+ - Take a screen shot
+ - Extract part of a video
+ - Make a gif from a video
+ - Get all the images from a video
+ - Extract audio from a video
+ - Add text to start and end of a video
+ - Replace or overlay the audio of a video
+ - Delete history
+ - Make a library
+ - add audio and video filters
+ - replay and set playback speed
+ - Make a playlist
+ - Play a folder full of media files.
+ - Make and add subtitles
+
+
+
+<h1>How to run project</h1>
+
+<h4>Method 1:</h4>
 
 Click on the jar file provided. It will open the program and everything is ready to use.
 
 
 
-Method 2:
+<h4>Method 2:</h4>
 
 1. Make a Java project in eclipse.
 
