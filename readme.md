@@ -58,7 +58,11 @@ Features given are:
 
 <h4>Method 1:</h4>
 
-Click on the jar file provided. It will open the program and everything is ready to use.
+Open terminal and navigate to the jar file.
+
+Enter the following code in the terminal :
+
+``` java -jar finalsubmitades597.jar```
 
 
 
