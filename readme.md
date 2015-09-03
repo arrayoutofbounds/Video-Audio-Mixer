@@ -3,11 +3,12 @@ README FILE
 VAMIX - version 2.0 
 ====================
 
-This is a video audio player and mixer. It was made by me in my second year of Software Engineering (2014).
+This is a video audio player and mixer. It was made by me in my second year of Software Engineering (2014). It 
+is currently only for linux distros.
 
 Main Author : Anmol Desai  
 
-Contact emails : ades597@aucklanduni.ac.nz
+Contact emails : anmoldesai4@gmail.com
 
 
 This file is to help you navigate around this software. All images used in the making of this software come from iconfinder.com. Those images have been used for educational purposes only and no other purpose. Any other source material used has also been used for educational purposes only and I give full credit to those sources. 
@@ -18,13 +19,13 @@ GENERAL USAGE INFORMATION:
 -- Beware of using very large files. They will work, but due to the large length it may take a while for your process to complete. Please be patient.
 
 
-INSTALLATION:
+INSTALLATION: (***Must be running a linux distro***) 
 
 - VLC (version 2.1 or higher) must be installed.
 
 - BASH shell has to be installed.
 
-- avconv must be installed as well
+- avconv must be installed as well (```sudo apt-get install libav-tools```)
 
 
 DESCRIPTION:
