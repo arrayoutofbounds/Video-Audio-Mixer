@@ -1,0 +1,330 @@
+commit 1840bc220d5a2da6fc070e86c11ff8e1ceac81da
+Author: ades597 <ades597@aucklanduni.ac.nz>
+Date:   Mon Oct 27 21:45:29 2014 +1300
+
+    changes made to subtitle frame
+
+commit d9d7323724ea85f508d26eadbd88800c5dc7d0f1
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 27 21:33:25 2014 +1300
+
+    readme file changed
+
+commit 50d9579e896859d90710afda6180910922a78fcf
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 27 21:20:33 2014 +1300
+
+    removed unused ports and made choose file to play in videoplayer nice
+
+commit aff1bb0799a1aa0066a583d873431233bf5b956a
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 27 19:07:22 2014 +1300
+
+    welcome message added
+
+commit db9837df3f41c1dd78f33f293e446242d7388ee5
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sun Oct 26 20:11:01 2014 +1300
+
+    subtitles file commented
+
+commit 6dcf90dd0570f2f371d701adcc5161732388fa3c
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 25 11:20:53 2014 +1300
+
+    added a feature that allows the user to add any subtitles file to the playing video
+
+commit daf43a7eb56848e2603693b9739b1f450e8612bd
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 25 10:58:43 2014 +1300
+
+    adding of subtitles works!
+
+commit de564e2f7240c7510dea2d5842b363bcde3519a7
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Fri Oct 24 13:31:37 2014 +1300
+
+    made new packages. Allowed the add text to output to a folder with spaces. fixed readme file
+
+commit 275e6c0b78d5e0dfafa81a62c455688e9dcbeed4
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Fri Oct 24 08:10:59 2014 +1300
+
+    adding text set back to normal! Comments made in the edittextpanel
+
+commit b718d46edf35c5f7628c4c0fabd07d7977dad862
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 23:48:11 2014 +1300
+
+    put comments in choose file to play in videoplayer
+
+commit 16c5bc6af275e5aca90d60b0b9fb2373c25472da
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 23:41:59 2014 +1300
+
+    commenting finished
+
+commit f23dc1b697d2130d1c1171530d5223669b67a7f9
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 21:39:26 2014 +1300
+
+    commented and fixed a bug. Double clicking on screen to start recording does not start if the media player is not playing
+
+commit 5cb16af9b158786ed22b6f01eb1d51d60c18a31d
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 21:07:44 2014 +1300
+
+    added comments
+
+commit 22c6cec24856e4bf3e3bfe8d7bfc18da6f8e9d10
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 18:29:29 2014 +1300
+
+    commented upto Download.java
+
+commit 67520b3753ceaa7e0969756d72bd94be6f3a57ba
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 18:15:01 2014 +1300
+
+    commented upto mediacomponent package
+
+commit 1631332152020491664874264a84ca9dc39b259d
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 12:27:28 2014 +1300
+
+    Did the commenting
+
+commit 6a8a174b15a6f928b2b9aad63f93351e071018be
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 11:29:44 2014 +1300
+
+    removed the stupid getter and setter for play button
+
+commit a639d17052783a28465e70df2da49661b81039ca
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 23 11:21:04 2014 +1300
+
+    the playing of list works, but user has to keep pressing play once an item is finished. Cancel playlist enabled
+
+commit e8cbeed42d8ff78bcb93c035102282345ebdbd61
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 22:18:12 2014 +1300
+
+    Made a splitpane for the library
+
+commit e3b5f2aa59e08e3f587f416de7b2de92a433c179
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 17:06:20 2014 +1300
+
+    temporarily fixed the adding text areas overlapping problem
+
+commit 5a5f2e29a83305eeb1cd2260d6b1c3899e0f38bb
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 16:34:53 2014 +1300
+
+    pressing rewind and fast forward at the same time is fixed
+
+commit d188f1f24e210abee36f91699366d8bed2d239d0
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 15:42:11 2014 +1300
+
+    put the opening of media files on a swingworker to ensure full speed.
+
+commit d5631d201d2e61803946bd55092ef75770d093bf
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 14:52:35 2014 +1300
+
+    Ran the help file through the runnable jar
+
+commit deb9877084c5f97a5d6831df0f6edd0d97142b32
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 14:04:59 2014 +1300
+
+    refactored stuff
+
+commit b21bc883e5315c453c0eca5f4f925641e376f22d
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 11:33:25 2014 +1300
+
+    refactored the whole program
+
+commit 526e7b482a503f2e286a806d21da5838705db3ef
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 10:14:51 2014 +1300
+
+    rearranged the VideoPlayer.java file and reduced the size to 920 lines
+
+commit 2119f1842a5e7b6a1bc68a4ad37c10dc0355d487
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 09:44:56 2014 +1300
+
+    Made a seperate class for video extracter double click and made a package for help
+
+commit 3adeacba2bd82e302ed666b65a9b8487beccafdd
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 09:29:45 2014 +1300
+
+    made a overlay worker class seperately and allowed it to detect an output directory with a space in its name
+
+commit e3d73875f03b202dd60b172611522adf489881b6
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 22 09:19:22 2014 +1300
+
+    Made a new class for replaceworker and ensured that output directory can have spaces
+
+commit aad852b7fd2b59d75288c4021cb765e2af9ff8bd
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 15 02:30:20 2014 +1300
+
+    added the functionality that allows you to play a playlist
+
+commit 4ae15870ec24737d1c65026119670ac8d9ff26f7
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 15 01:46:30 2014 +1300
+
+    playlist is working. It can store and load and play
+
+commit ab6e904011e421bd1681def4e7ee1e5c3ab8e5c5
+Merge: b3d7c9b 62c4475
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Tue Oct 14 17:25:28 2014 +1300
+
+    readme file fixed
+
+commit b3d7c9bd992204271d6ea9d83f4b785afc8240e3
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Tue Oct 14 17:22:44 2014 +1300
+
+    extra jar files deleted and the playlist is being made
+
+commit 62c4475798e300686fc3fc573a804b3f0b489db2
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 13 03:48:35 2014 +1300
+
+    Update README.md
+
+commit 2d5e5ae488700a70caeb048dc9579337704b6bf9
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 13 03:47:59 2014 +1300
+
+    Update README.md
+
+commit e5284d847f8fae77beb46fa5fca669fbd827f25f
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 13 03:46:31 2014 +1300
+
+    updated the readme file
+
+commit f1c8b50987780e70165390e726cce51718d7bb49
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 13 03:09:04 2014 +1300
+
+    the library is fully funcitonal. Double click on jlist plays the video or audio. Also it adds itself to the log once it plays.
+
+commit 58e8d5c662626c3bc716b007b84fa2970a246b5d
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Mon Oct 13 01:08:36 2014 +1300
+
+    made a library gui and implemented removing and adding of items in the list
+
+commit 54e53ecb08911eb1dc3befa81e696d6120296fed
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sun Oct 12 13:45:47 2014 +1300
+
+    added the menu item to allow extraction of part of a video
+
+commit 4c8574ff0a532a02d91e40cb6cd10257366c3883
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sun Oct 12 12:48:11 2014 +1300
+
+    Added the audio filters and made the gui for extracting a part
+
+commit 3b8ad8c41404e11525036f2cdc2ad0da3e164d6f
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 11 06:10:36 2014 +1300
+
+    added the replay feature that continuously replays the selected media till it is unchecked in the menu bar
+
+commit d2c0e9b63396a1ffff3338378967be279e953d71
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 11 05:25:39 2014 +1300
+
+    sorted out the problem in duplicate files. Put a label in extract audio to show output. Added all the video filters that are shown in one go
+
+commit d1d32e0f812b7e7796e382ac66e7242d8c04fda8
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 11 02:09:39 2014 +1300
+
+    Finished the gui for video filters
+
+commit a8a65dad50296ef5d602cae09df0c0bc18757d39
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 11 01:16:40 2014 +1300
+
+    Added menu item for video filter
+
+commit 3c44c3864387ada3c6616cfb3a2ed720195475df
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Sat Oct 11 01:09:54 2014 +1300
+
+    added playback speed option by right click and in the audio features menu. Tested and ran perfectly
+
+commit dfcb5a9755d4ba76d75d616825a9eb517d3d53ec
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Fri Oct 10 02:11:23 2014 +1300
+
+    made the download function a aprt of the tools tab. Still have to remove the download in the download tab
+
+commit 5b4a092879d25ae6d2b83dfeac42aef61d7dc619
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Fri Oct 10 01:54:02 2014 +1300
+
+    just added the invalid file check to getting images and replace/overlay audio features
+
+commit 47b1a97d9d4dfa0851ff06446038b2ceb87a9934
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:43:47 2014 +1300
+
+    added the invalid file check to extract audio and made sure that audio cannot be extracted till the file inserted is correct
+
+commit 5a1cd11ef5dbc14e3815a511c53481181187df69
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:38:40 2014 +1300
+
+    put the invalid file check on the make gif. Also the made the button to make the gif disabled till the video file input is correct
+
+commit bec8912c67480b15beb501f3168eb22fe59a3a2d
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:25:20 2014 +1300
+
+    Changed readme file name
+
+commit 5a9c3fe20d0fc5e1c9db13caa47992a28702e303
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:24:14 2014 +1300
+
+    changed readme file name
+
+commit 27ee2dfb507e74bb8b8f52398e0af58b884f818a
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:23:09 2014 +1300
+
+    Deleted readme.md
+
+commit 2a78cf5c65476fc53c0baca4d483be261c098d1a
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 23:19:16 2014 +1300
+
+    moved the files to a new package and created a invalid file check and added it to the videoplayer.
+
+commit 8ecbd199c92ac6e7edd389dea670ad7ff7b8aa09
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Thu Oct 9 20:15:29 2014 +1300
+
+    First commit
+
+commit cfcc3634acc9c7905849ef7a10791f61cd0e37fd
+Author: Anmol Desai <anmoldesai4@gmail.com>
+Date:   Wed Oct 8 12:33:24 2014 +1300
+
+    Initial commit
