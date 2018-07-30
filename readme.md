@@ -8,8 +8,6 @@ is currently only for linux distros.
 
 Main Author : Anmol Desai  
 
-Contact emails : anmoldesai4@gmail.com
-
 
 This file is to help you navigate around this software. All images used in the making of this software come from iconfinder.com. Those images have been used for educational purposes only and no other purpose. Any other source material used has also been used for educational purposes only and I give full credit to those sources. 
 
